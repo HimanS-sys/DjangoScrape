@@ -1,0 +1,2 @@
+# DjangoScrape
+Auto-scrape websites.  
